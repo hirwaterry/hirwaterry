@@ -1,12 +1,12 @@
 <!-- Header GIF -->
 <div align="center">
-  <img src="https://github.com/hirwaterry/media/header.gif" alt="Header GIF" width="600" />
+  <img src="https://images.app.goo.gl/Px5MsuQAfmHzESRB8" alt="Programmer GIF" width="600" />
 </div>
 
-<!-- Animated Name with SVG Typing Effect -->
+<!-- Animated Name with Typing Effect -->
 <h1 align="center">
   👋 Hi, I'm <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=3498db&width=435&lines=Hirwa+Shema+Terry" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=3498db&center=true&vCenter=true&width=435&lines=Hirwa+Shema+Terry" alt="Typing Animation" />
   </span>
 </h1>
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a **full-stack developer** and **Co-Founder 
 ---
 
 ## 🧑‍💻 About Me
-- **Co-Founder & COO** of [Cyberstream](https://cyberstream.com)
+- **Co-Founder & COO** of [Cyberstream](https://cyberstream-six.vercel.app/)
 - **Tech Enthusiast** with a focus on **AI**, **machine learning**, and **web development**
 - Passionate about building **functional**, **user-friendly**, and **innovative web applications**
 - Currently working with **React**, **Next.js**, and **TailwindCSS** for seamless, modern user experiences
