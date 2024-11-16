@@ -3,22 +3,12 @@
   <img src="https://github.com/hirwaterry/media/header.gif" alt="Header GIF" width="600" />
 </div>
 
-# <span style="font-size: 50px; color: #3498db;">👋 Hi, I'm <span class="typing-effect">Hirwa Shema Terry</span>!</span>
-
-<style>
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-.typing-effect {
-  display: inline-block;
-  border-right: 3px solid #3498db;
-  white-space: nowrap;
-  overflow: hidden;
-  width: 0;
-  animation: typing 3s steps(40, end), blink-caret 0.5s step-end infinite alternate;
-}
-</style>
+<!-- Animated Name with SVG Typing Effect -->
+<h1 align="center">
+  👋 Hi, I'm <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=3498db&width=435&lines=Hirwa+Shema+Terry" alt="Typing Animation" />
+  </span>
+</h1>
 
 ### 🚀 Co-Founder & COO @Cyberstream | Developer | Tech Enthusiast | Machine Learning Explorer
 
