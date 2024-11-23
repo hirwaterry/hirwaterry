@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <div align="center">
-  <img src="https://images.app.goo.gl/Px5MsuQAfmHzESRB8" alt="Programmer GIF" width="600" />
+  <img src="[https://images.app.goo.gl/Px5MsuQAfmHzESRB8](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&s)" alt="Programmer GIF" width="600" />
 </div>
 
 <!-- Animated Name with Typing Effect -->
